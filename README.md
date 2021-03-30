@@ -5,6 +5,7 @@
 ### Exchange video-audio streams with your friends in your browser with auto-generated UUID.
 
 To recreate this project on your local machine, follow these steps:
+
    0. Make sure you have [npm](https://www.npmjs.com/get-npm) and [NodeJS](https://nodejs.org/en/download/) installed
    1. Clone this repository `git clone https://github.com/buteanrares/VideoChatRoom`
    2. Delete custom node modules folder
