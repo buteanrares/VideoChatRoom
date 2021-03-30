@@ -4,14 +4,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDbUHJ0nBO3V6eltMtJSfeUbyG6gei9Ngc",
-  authDomain: "videochatapp-43d5b.firebaseapp.com",
-  databaseURL: "https://videochatapp-43d5b-default-rtdb.firebaseio.com",
-  projectId: "videochatapp-43d5b",
-  storageBucket: "videochatapp-43d5b.appspot.com",
-  messagingSenderId: "862263224033",
-  appId: "1:862263224033:web:e338150dbb415da5f9b9a0",
-  measurementId: "G-X29J0C3E44",
+  // YOUR FIREBASE CONFIG HERE
 };
 
 if (!firebase.apps.length) {
