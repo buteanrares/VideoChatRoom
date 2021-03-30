@@ -21,4 +21,5 @@ To recreate this project on your local machine, follow these steps:
   9. `npm run dev`
 
 > NOTE
-> - Known bug: Client is echoed (your voice is replayed to you by the server)
+> 
+> Known bug: Client is echoed (your voice is replayed to you by the server)
