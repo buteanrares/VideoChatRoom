@@ -23,4 +23,4 @@ To recreate this project on your local machine, follow these steps:
 
 > NOTE
 > 
-> Known bug: Client is echoed (your voice is replayed to you by the server)
+> Known issue: Client is echoed (your voice is replayed to you by the server)
